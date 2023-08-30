@@ -1,4 +1,2 @@
 #!/bin/bash 
-git ls-files --long 
-ls -ln 
-ls -a
+git ls-files --long, ls -ln, ls -a

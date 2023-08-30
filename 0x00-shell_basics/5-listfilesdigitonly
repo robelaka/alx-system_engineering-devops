@@ -1,2 +1,2 @@
-#!/bin/bash 
-git ls-files --long, ls -ln, ls -a
+#!/bin/bash
+ls -pam

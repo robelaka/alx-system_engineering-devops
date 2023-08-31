@@ -1,0 +1,2 @@
+#!/bin/bash
+chown betty hello && echo "File ownership changed successfully." || echo "File is not owned by guillaume."

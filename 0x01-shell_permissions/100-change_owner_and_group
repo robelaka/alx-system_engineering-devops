@@ -1,2 +1,2 @@
 #!/bin/bash
-chow -hR betty:alx .
+chown vincent:staff $(find .)
